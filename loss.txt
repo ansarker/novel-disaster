@@ -1,0 +1,1 @@
+tensor(2.2074, device='cuda:0', grad_fn=<NllLossBackward0>)
